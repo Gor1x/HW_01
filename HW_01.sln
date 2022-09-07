@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableWithLinkedList", "HashTableWithLinkedList\HashTableWithLinkedList.csproj", "{42E9AD74-0F38-42C2-94AB-EAAFBC81FC68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{549289A7-F32B-4432-A2DF-775C745363C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E9AD74-0F38-42C2-94AB-EAAFBC81FC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E9AD74-0F38-42C2-94AB-EAAFBC81FC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E9AD74-0F38-42C2-94AB-EAAFBC81FC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E9AD74-0F38-42C2-94AB-EAAFBC81FC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549289A7-F32B-4432-A2DF-775C745363C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549289A7-F32B-4432-A2DF-775C745363C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549289A7-F32B-4432-A2DF-775C745363C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549289A7-F32B-4432-A2DF-775C745363C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
